@@ -7,7 +7,7 @@ function Header() {
 <div className="col-xl-6">
 <div className="text-center text-white">
     <h1 className="mb-5">Generate more leads with a professional landing page!</h1>
-<form className="form-subscribe" id="contactForm" data-sb-form-api-token="API_TOKEN">
+<form className="form-subscribe" id="contactForm" data-sb-form-api-token="c9bd549a-d261-49d8-bf6b-591d1bcfa15c">
     <div className="row">
     <div className="col">
         <input className="form-control form-control-lg" id="emailAddress" type="email" placeholder="Email Address" data-sb-validations="required,email" />
