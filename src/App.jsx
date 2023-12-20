@@ -1,6 +1,6 @@
 import React from 'react'
 import Icons from './components/Icons'
-import Header from './components/header'
+// import Header from './components/header'
 import Showitems from './components/Showitems'
 import Testimonial from './components/Testimonial'
 import Action from './components/Action'
@@ -31,7 +31,7 @@ function App() {
                 <a className="btn btn-primary" href="#signup">Sign Up</a>
             </div>
         </nav>
-        <Header/>
+        {/* <Header/> */}
         <section className="features-icons bg-light text-center">
             <div className="container">
             <div className="row">
